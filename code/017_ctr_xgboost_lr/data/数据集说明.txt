@@ -1,0 +1,2 @@
+由于受文件大小限制，直接解压文件即可使用。
+原始文件下载:https://www.kaggle.com/sulabh4/ctr-prediction-dataset
