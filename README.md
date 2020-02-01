@@ -1,7 +1,10 @@
 # data and advertisement
 
 【数据虫巢】公众号，《数据与广告》系列对应相关实操代码示例。
-![数据虫巢](./img/wechat.png)
+-------------------------------
+
+<img src="./img/wechat.png" width="400" height="145" alt="数据虫巢" align=center>
+
 -------------------------------
 
 ### 目录说明（code）：
