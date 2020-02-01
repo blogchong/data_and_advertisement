@@ -8,13 +8,13 @@
 
 -------------------------------
 
-### 目录说明（code）：
+### 1.目录说明（code）：
 
 * 017_ctr_xgboost_lr(待回头补充)
 * 014_label_recommend_fm(待回头补充)
 * 011_gender_modeling_lr(待回头补充)
 
-### 对应文章：
+### 2.对应文章：
 
 * [《广告推荐系列》](http://mp.weixin.qq.com/mp/homepage?__biz=MzAxMjM2MTY0OQ==&hid=6&sn=750be92b33a5a02673d9ba5812bbfbe5&scene=18#wechat_redirect "《广告推荐系列》"). 
 * [《数据与广告系列十五：商业兴趣标签建模&XGboost调优实战》](https://mp.weixin.qq.com/s/be2mUrnnDWIkq1fBD61ibA).
