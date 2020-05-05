@@ -105,6 +105,7 @@ def train_data(df_input):
     model.fit(x_train, y_train, eval_metric="auc")
     end_time = time.time()
     print(f'End Time : {time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(end_time))}')
+	return model
 
 if __name__=='__main__':
     df_input=encode_data()
