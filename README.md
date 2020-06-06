@@ -17,6 +17,8 @@
 ### 2.对应文章：
 
 * [《广告推荐系列》](http://mp.weixin.qq.com/mp/homepage?__biz=MzAxMjM2MTY0OQ==&hid=6&sn=750be92b33a5a02673d9ba5812bbfbe5&scene=18#wechat_redirect "《广告推荐系列》"). 
+* [《数据与广告系列十九：推荐召回与广告LookAlike，万物皆可Embedding》](https://mp.weixin.qq.com/s/cF-Nf4KIxooZlRO58QPe2A).
+* [《数据与广告系列十七：广告的排序与CTR预估（附Github示例代码）》](https://mp.weixin.qq.com/s/4zUVtdgwbLMOU6TZyNptJQ).
 * [《数据与广告系列十五：商业兴趣标签建模&XGboost调优实战》](https://mp.weixin.qq.com/s/be2mUrnnDWIkq1fBD61ibA).
 * [《数据与广告系列十四：智能定向&基于FM的标签组合推荐思路》](https://mp.weixin.qq.com/s/g6jlbfYa0m1uU6zC_WyrOA).
 * [《数据与广告系列十三：广告中的异常预测问题(PU学习&CostSensitiveClassification)》](https://mp.weixin.qq.com/s/O2ih7S7h0Adoh0XmxCc1tA).
